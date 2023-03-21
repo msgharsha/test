@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "9UAN6F4GMX.Ondemand.Arrowstream.Mobile",
+                "paths": ["*"]
+            }
+        ]
+    }
+}

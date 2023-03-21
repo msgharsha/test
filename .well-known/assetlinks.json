@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "ondemand.arrowstream.mobile",
+                 "sha256_cert_fingerprints": ["55:5E:3E:19:73:61:E3:80:91:E3:2F:A6:79:7D:24:6B:EA:DA:32:50:44:EE:6D:FC:F8:F2:21:44:9A:D6:6A:66"] }
+  }]
